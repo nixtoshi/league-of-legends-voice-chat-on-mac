@@ -1,5 +1,6 @@
 <img src="http://i.imgur.com/xsfNObX.png" alt="drawing" width="200"/>
-# LoL with Voice.app
+
+## LoL with Voice.app
 #### Fix the Voice Chat issue on Mojave with a simple .app executable instead of the official app
 
 ##### The Simple Temporary Solution
