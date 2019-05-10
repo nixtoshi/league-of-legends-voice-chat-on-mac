@@ -38,7 +38,7 @@ The Automator app is simply running this bash script:
 cd '/Applications/League of Legends.app/Contents/LoL/'
 # Runs the client
 ./LeagueClient.app/Contents/MacOS/LeagueClient
-# Stops the bash script
-break
+# Kills the script monitor that makes de the cog icon from the Automator task show
+killAll ScriptMonitor
 ```
 So what are we doing here? Yes, we are just running the client from a bash script, however, the Automator app container will ask the user for the permission to use the Microphone unlike League's official client.
