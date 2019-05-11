@@ -1,5 +1,3 @@
-<a href="https://github.com/dalovar/league-of-legends-voice-chat-on-mac/archive/master.zip"><img src="http://i.imgur.com/xsfNObX.png" alt="drawing" width="200"/></a>
-
 ## LoL with Voice.app
 #### Fix the Voice Chat issue on Mojave with a simple .app executable instead of the official app
 
@@ -13,6 +11,8 @@
 4. Choose the right microphone (most often it will be your internal mic, or your headphone's mic), click on the Microphone symbol to Test the sound. This will show a pop-up that asks you if you want to give `LoL with Voice.app` permission to use your Microphone, simply click **Yes**.
 
 5. Every time you want to use League with Voice Chat enabled you must run League of Legends from my app called `LoL with Voice.app`. This will work on all future updates as well as long as LoL doesn't change the location of their client's executable within its application package.
+
+
 
 <a href="https://github.com/dalovar/league-of-legends-voice-chat-on-mac/archive/master.zip"><img src="http://i.imgur.com/rLIFy4H.png" alt="drawing" width="250"/></a>
 
