@@ -44,7 +44,7 @@ killAll ScriptMonitor
 So what are we doing here? Yes, we are just running the client from a bash script, however, the Automator app container will ask the user for the permission to use the Microphone unlike League's official client, and the apps that the container runs inherit these permissions.
 
 ##### Will this add load on my PC or does this have any malware in it?
-No and no. The added load from haveing a container app run another app is minimal, literally 0.00% impact on your PC's performance. This app doesn't contain any malware, in fact all the code is a template from Automator and my actual code is just 3 lines compacted into one no-obfuscated line of code, and since the code is open source here on Github, anyone can inspect what they are downloading before they use it and report me if I was distributing malware. And I'm not.
+No and no. The added load from having a container app run another app is minimal, literally 0.00% impact on your PC's performance. This app doesn't contain any malware, in fact all the code is a template from Automator and my actual code is just 3 lines compacted into one no-obfuscated line of code, and since the code is open source here on Github, anyone can inspect what they are downloading before they use it and report me if I was distributing malware. And I'm not.
 
 
 Good luck, have fun ;)
