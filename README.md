@@ -14,7 +14,7 @@
 
 5. Every time you want to use League with Voice Chat enabled you must run League of Legends from my app called `LoL with Voice.app`. This will work on all future updates as well as long as LoL doesn't change the location of their client's executable within its application package.
 
-[![N|Solid](http://i.imgur.com/rLIFy4H.png)](https://github.com/dalovar/league-of-legends-voice-chat-on-mac/archive/master.zip)
+<a href="https://github.com/dalovar/league-of-legends-voice-chat-on-mac/archive/master.zip"><img src="http://i.imgur.com/rLIFy4H.png" alt="drawing" width="250"/></a>
 
 ### Donations
 If you found this useful I accept donations:
