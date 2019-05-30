@@ -59,7 +59,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>cd '/Applications/League of Legends.app/Contents/LoL/'; ./LeagueClient.app/Contents/MacOS/LeagueClient; killAll ScriptMonitor</string>
+					<string>cd '/Applications/League of Legends.app/Contents/LoL/'; killAll ScriptMonitor; ./LeagueClient.app/Contents/MacOS/LeagueClient;</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
@@ -68,6 +68,21 @@
 					<string>/bin/bash</string>
 					<key>source</key>
 					<string></string>
+				</dict>
+				<key>ActionRuntimeParameters</key>
+				<dict>
+					<key>COMMAND_STRING</key>
+					<string>cd '/Applications/League of Legends.app/Contents/LoL/'; killAll ScriptMonitor; ./LeagueClient.app/Contents/MacOS/LeagueClient;</string>
+					<key>CheckedForUserDefaultShell</key>
+					<true/>
+					<key>inputMethod</key>
+					<integer>0</integer>
+					<key>shell</key>
+					<string>/bin/bash</string>
+					<key>source</key>
+					<string></string>
+					<key>temporary items path</key>
+					<string>/var/folders/6x/rngrf9gs29zdc065tvr80x9h0000gn/T/B625F2FD-C1DF-43EC-AAD5-E6E84034D60D/1/com.apple.RunShellScript</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.RunShellScript</string>
