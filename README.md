@@ -8,9 +8,9 @@
 
 3. Launch my app and go to `Settings > Voice` inside League of Legends.
 
-4. Choose the right microphone (most often it will be your internal mic, or your headphone's mic), click on the Microphone symbol to Test the sound. This will show a pop-up that asks you if you want to give `LoL with Voice.app` permission to use your Microphone, simply click **Yes** or **Allow**.
+4. Choose the right microphone (most often it will be your internal mic, or your headphone's mic), click on the Microphone symbol to Test the sound. This will show a pop-up that asks you if you want to give `LoL with Voice.app` permission to use your Microphone, simply click **Yes** or **Allow**. You only have to do this once.
 
-5. Every time you want to use League with Voice Chat enabled you must run League of Legends from my app which is called `LoL with Voice.app`. This will work on all future updates as well as long as LoL doesn't change the location of their client's executable within its application package.
+5. Every time you want to use League with Voice Chat enabled you must run League of Legends from my app `LoL with Voice.app`. This will work on all future updates as well as long as LoL doesn't change the location of their client's executable within its application package.
 
 
 
