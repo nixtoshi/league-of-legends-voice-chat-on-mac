@@ -3,7 +3,7 @@
 
 ##### Pre-requisites:
 1. Haven an Intel-base Mac.
-2. If you have an M1 and higher chip, it's possible that this fix won't work for you as some people have reported issues when using this fix on Macs with M1 and later. If this is the case for you, I would highly recommend that you and your friends use Discord, since Discord is usually up to date and bug-free on Macs and other operating systems.
+2. If you have an M1 and higher chip, it's possible that this fix won't work for you as some people have reported issues when using this fix on Macs with M1 and later. If this is the case for you, I would highly recommend that you and your friends use Discord, since Discord is usually up to date and bug-free on Macs and other operating systems. It's possible that I will build a new fix for M1 Macs and later, but I have no way to try it since I have an intel based Mac still, consider donating (https://paypal.me/nixtoshi) so I can buy an M1 and keep providing free support for this fix in the future.
 
 ##### The simple Solution:
 1. Make sure you have League of Legends installed in this path: `/Applications/League of Legends.app`. This is the default installation path, so you will probably not have to do anything here, go to step 2.
