@@ -1,7 +1,11 @@
 ## LoL with Voice.app
 #### Fix the Voice Chat issue on new MacOS releases with a simple .app executable instead of the official League of Legends launcher
 
-##### Simple Solution
+##### Pre-requisites:
+1. Haven an Intel-base Mac.
+2. If you have an M1 and higher chip, it's possible that this fix won't work for you as some people have reported issues when using this fix on Macs with M1 and later. If this is the case for you, I would highly recommend that you and your friends use Discord, since Discord is usually up to date and bug-free on Macs and other operating systems.
+
+##### The simple Solution:
 1. Make sure you have League of Legends installed in this path: `/Applications/League of Legends.app`. This is the default installation path, so you will probably not have to do anything here, go to step 2.
 
 2. Download and run the app I built.
@@ -19,7 +23,7 @@
 ### Donations
 If you found this useful I accept donations:
 
-**PayPal:** www.paypal.me/daxlo
+**PayPal:** https://paypal.me/nixtoshi
 
 **Bitcoin:** 36dHn9jbaYcKKzvMSwKw2JjoHXiqWhaDvp
 
