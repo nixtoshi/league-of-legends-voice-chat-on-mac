@@ -2,7 +2,7 @@
 #### Fix the Voice Chat issue on new MacOS releases with a simple .app executable instead of the official League of Legends launcher
 
 ##### Pre-requisites:
-1. Have an Intel-base Mac.
+1. Have an Intel-base Mac. If you do, go to the simple solution section.
 2. If you have an M1 or higher chip, it's possible that this fix won't work for you as some people have reported issues when using this fix on Macs with M1 and later. If this is your case, I would highly recommend that you and your friends use **Discord**, since Discord is usually updated very quickly and bug-free on Macs and other operating systems (It's main business is chat and voice after all). It is possible that I will build a new fix for M1 Macs and later, but I have no way to try it since I have an intel based Mac still, consider donating (https://paypal.me/nixtoshi) so I can buy an M1 and keep providing free support for this fix in the future.
 
 ##### The simple Solution:
@@ -24,6 +24,10 @@
 If you found this useful I accept donations:
 
 **PayPal:** https://paypal.me/nixtoshi
+
+**ETH or sidechains:**: 0xeF3Dc502E67c2c00376e6fB257EC7333c51a8856
+
+**FLOW:** 0x2fcfd4f6ebb7309c
 
 **Bitcoin:** 36dHn9jbaYcKKzvMSwKw2JjoHXiqWhaDvp
 
